@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/the-architect/rpresent.svg)](https://travis-ci.org/the-architect/rpresent)
 [![Coverage Status](https://coveralls.io/repos/the-architect/rpresent/badge.svg?branch=master&service=github)](https://coveralls.io/github/the-architect/rpresent?branch=master)
+[![Code Climate](https://codeclimate.com/github/the-architect/rpresent/badges/gpa.svg)](https://codeclimate.com/github/the-architect/rpresent)
 
 ## Installation
 
