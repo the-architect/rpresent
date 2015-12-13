@@ -1,0 +1,19 @@
+languages:
+   Ruby: true
+engines:
+  rubocop:
+    enabled: true
+  duplication:
+    enabled: true
+    config:
+      languages:
+      - ruby
+ratings:
+   paths:
+   - core_ext/**
+   - lib/**
+   - "**.rb"
+exclude_paths:
+- spec/**/*
+- vendor/**/*
+- bin
