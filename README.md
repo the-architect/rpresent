@@ -1,8 +1,10 @@
 # RPresent
 
-[![Build Status](https://travis-ci.org/the-architect/rpresent.svg)](https://travis-ci.org/the-architect/rpresent)
-[![Coverage Status](https://coveralls.io/repos/the-architect/rpresent/badge.svg?branch=master&service=github)](https://coveralls.io/github/the-architect/rpresent?branch=master)
-[![Code Climate](https://codeclimate.com/github/the-architect/rpresent/badges/gpa.svg)](https://codeclimate.com/github/the-architect/rpresent)
+[![Build Status](https://img.shields.io/travis/the-architect/rpresent.svg)](https://travis-ci.org/the-architect/rpresent)
+[![Coverage Status](https://img.shields.io/coveralls/the-architect/rpresent.svg)](https://coveralls.io/github/the-architect/rpresent?branch=master)
+[![Code Climate](https://img.shields.io/codeclimate/the-architect/rpresent.svg)](https://codeclimate.com/github/the-architect/rpresent)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 
 ## Installation
 
