@@ -1,4 +1,4 @@
-# Rpresent
+# RPresent
 
 
 ## Installation
@@ -29,5 +29,5 @@ To release a new version, update the version number in `rpresent.gemspec`, and t
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/rpresent.
+Bug reports and pull requests are welcome on GitHub at https://github.com/the-architect/rpresent.
 
