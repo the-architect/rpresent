@@ -1,5 +1,6 @@
 # RPresent
 
+[![Build Status](https://travis-ci.org/the-architect/rpresent.svg)](https://travis-ci.org/the-architect/rpresent)
 
 ## Installation
 
