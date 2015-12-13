@@ -8,6 +8,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ['the-architect']
   spec.email         = ['marcel.scherf@epicteams.com']
 
+  spec.required_ruby_version = '>= 2.0.0'
+
   spec.summary       = %q{Presenters for your rails application}
   spec.description   = %q{Presenters for your rails application}
   spec.homepage      = 'https://github.com/the-architect/rpresent'
