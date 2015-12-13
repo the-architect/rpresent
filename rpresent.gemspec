@@ -24,4 +24,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'simplecov'
   spec.add_development_dependency 'pry-byebug'
   spec.add_development_dependency 'ruby_gntp'
+  spec.add_development_dependency 'coveralls'
 end
